@@ -478,3 +478,11 @@ hr {
 .padding {
   padding-bottom: 10px;
 }
+
+.contacts {
+  position: relative;
+}
+
+.icon {
+  height: 18px;
+}
