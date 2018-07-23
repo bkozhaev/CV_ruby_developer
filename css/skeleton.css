@@ -127,7 +127,7 @@ body {
   font-family: 'Roboto', 'Quicksand', 'Karla', 'Libre Franklin', 'ABeeZee', "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; }
   <link href="https://fonts.googleapis.com/css?family=ABeeZee" rel="stylesheet">
-
+}
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -418,71 +418,4 @@ there.
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
 
-.bold {
-  font-size: 18px;
-}
 
-
-.left {
-  float: left
-}
-
-.red {
-  color: red
-}
-
-.head {
-    background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=);
-    background-repeat: repeat-x;
-    background-position: bottom;
-    text-align: left;
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-
-.head h2 {
-    background-color: #ffffff;
-    margin: 0 auto;
-    display: inline-block;
-}
-
-h1 {
-  text-align: center;
-  margin-bottom: 0;
-}
-
-.name-bottom {
-  text-align: center;
-}
-
-.rows-of-text {
-  text-align: justify;
-}
-
-a {
-  text-decoration: none;
-  color: black;
-}
-
-hr {
-  display: block;
-  margin-bottom: 2px;
-
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 0.5px;
-  border-color: black;
-}
-
-.padding {
-  padding-bottom: 10px;
-}
-
-.contacts {
-  position: relative;
-}
-
-.icon {
-  height: 17px;
-}
