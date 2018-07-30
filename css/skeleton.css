@@ -148,7 +148,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #000; }
 a:hover {
   color: red; }
 
@@ -409,11 +409,6 @@ there.
 
 .rows-of-text {
   text-align: justify;
-}
-
-a {
-  text-decoration: none;
-  color: black;
 }
 
 hr {
