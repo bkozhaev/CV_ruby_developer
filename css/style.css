@@ -14,9 +14,6 @@ footer {
 
 i {
   color: red;
-
-body {
-  background-color:   #eeeeee;
 }
 
 .skills {
@@ -66,7 +63,6 @@ body {
 
 .head h2 {
     background-color: #fff;
-
     margin: 0 auto;
     display: inline-block;
 }
@@ -82,7 +78,6 @@ h1 {
 .name-bottom-red {
   padding-bottom: 70px;
 }
-
 
 
 hr {
