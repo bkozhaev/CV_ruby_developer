@@ -2,12 +2,17 @@
   font-size: 18px;
 }
 
+.side-section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 footer {
   padding-bottom: 100px;
 }
 
-body {
-  background-color:   #eeeeee;
+i {
+  color: red;
 }
 
 .skills {
@@ -28,6 +33,23 @@ body {
 .red {
   color: #ff2815;
 }
+
+.contacts {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contacts a {
+  color: #fff;
+
+}
+
+.head_1 h5 {
+    background-color: gray;
+    margin: 0 auto;
+    display: inline-block;
+}
+
 
 .head {
     background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=);
@@ -58,13 +80,13 @@ h1 {
 
 hr {
   display: block;
-  margin-bottom: 2px;
-
+  color: white;
   margin-left: auto;
   margin-right: auto;
   border-style: inset;
-  border-width: 0.5px;
-  border-color: black;
+  border-top: 1px solid white;
+  border-color: white;
+  margin: 0;
 }
 
 .padding {
@@ -86,10 +108,30 @@ hr {
 .container {
   position: relative;
   width: 100%;
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0 20px;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
+
+.container_2 {
+  position: relative;
+  padding: 0 20px;
+  box-sizing: border-box;
+  color: #000;
+  margin-left: 300px;
+}
+
+.container_1 {
+  position: absolute;
+  padding: 0 20px;
+  box-sizing: border-box;
+  background-color: grey;
+  color: #fff;
+  padding-bottom: 100%;
+  min-height: 100%;
+}
+
 .column,
 .columns {
   width: 100%;
