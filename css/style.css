@@ -61,7 +61,7 @@ i {
 }
 
 .head h2 {
-    background-color: #eeeeee;
+    background-color: #fff;
     margin: 0 auto;
     display: inline-block;
 }
@@ -77,7 +77,6 @@ h1 {
 .name-bottom-red {
   padding-bottom: 70px;
 }
-
 
 hr {
   display: block;
@@ -109,7 +108,7 @@ hr {
 .container {
   position: relative;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
